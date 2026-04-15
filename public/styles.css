@@ -60,6 +60,7 @@ h1 {
     text-align: right;
     color: #2d3748;
     margin-bottom: 10px;
+    user-select: none;
 }
 
 .input-expression:focus {
